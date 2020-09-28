@@ -9,3 +9,8 @@
 - Added alt text for all images.
 - Verified self-closing tags were actually self closing
 - Verified heading attributes were in sequential order
+
+##### Things done to consolidate CSS and make more efficient #####
+- Consolidated any selectors together that had the same stylings
+
+
