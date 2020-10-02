@@ -1,10 +1,14 @@
-# HW1
+# HW1_Code_Refactor
 
-## Homework #1
+[See deployed page here](https://phenom708.github.io/HW1_Code_Refactor/)
 
-#### The purpose of this homework is to refactor some given code to make it more accessible.
+![Screenshot of deployed webpage](./assets/images/deployed-screenshot.png)
 
-##### Things done to **increase accessibility** on HTML file:
+### Description
+
+The purpose of this assigment is to refactor some given code to make it more accessible. This is my first attempt at refactoring code.
+
+#### Things done to **increase accessibility** on HTML file:
 
 - Changed the title in the header to something more appropriate.
 - Ensured all links worked properly.
@@ -13,7 +17,7 @@
 - Verified heading attributes were in sequential order
 - Changed some div tags to more semantic tags
 
-##### Things done to consolidate CSS to make more efficient and easier to read
+#### Things done to **consolidate CSS** to make more efficient and easier to read
 
 - Consolidated any selectors together that had the same stylings
 - Added notes to more easily identify selectors
