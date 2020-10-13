@@ -1,6 +1,6 @@
 # HW1_Code_Refactor
 
-[See deployed page here](https://phenom708.github.io/HW1_Code_Refactor/)
+[See deployed page here](https://peterphenow.github.io/HW1_Code_Refactor/)
 
 ![Screenshot of deployed webpage](./assets/images/deployed-screenshot.png)
 
